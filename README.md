@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Biniam (biniamgrmay)
+## I'm currently learning Java
+## Reach me at btg24857@email.vccs.edu
+<img width="728" height="410" alt="image" src="https://github.com/user-attachments/assets/3b813525-337c-4c23-9368-afeedbf896ea" />
+
+
 
 <!--
 **biniamgrmay/biniamgrmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
